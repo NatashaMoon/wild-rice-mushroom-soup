@@ -22,3 +22,9 @@ body {
     margin: auto 20%;
 
 }
+
+#cropped {
+    width: 400px;
+    height: 400px; 
+    object-fit: cover;
+}
